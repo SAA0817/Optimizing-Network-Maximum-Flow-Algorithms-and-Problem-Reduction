@@ -1,6 +1,3 @@
-# Optimizing-Network-Maximum-Flow-Algorithms-and-Problem-Reduction
+![image](https://github.com/user-attachments/assets/1ed0b6b4-90bc-4cd7-a728-8aa7277842a5)
 
-![Uploading image.png…]()
-
-
-[test](networkflow.pdf)
+[full version](networkflow.pdf)
