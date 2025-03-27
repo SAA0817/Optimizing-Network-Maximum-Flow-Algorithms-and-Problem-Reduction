@@ -33,3 +33,5 @@ All implementations are in C++ with comprehensive testing. Program source code i
 **Keywords:** **Network Maximum Flow**; **Dinic Algorithm**; **Highest Label Preflow Push Algorithm**; **Budget Algorithm**  
 
 [Full Technical Report](networkflow.pdf)
+
+[中文版本](对网络最大流算法优化与问题归约的研究.pdf)
